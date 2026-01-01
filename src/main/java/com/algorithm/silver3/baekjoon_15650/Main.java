@@ -1,4 +1,4 @@
-package com.algorithm.silver3.baekjoom_15650;
+package com.algorithm.silver3.baekjoon_15650;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -36,6 +36,5 @@ public class Main {
             dfs(N, M, depth + 1, i + 1);
         }
     }
-
 }
 
